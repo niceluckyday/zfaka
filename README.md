@@ -1,6 +1,14 @@
+# <font color=red>紧急提醒</font>
+
+>!!!ZFAKA发现重大安全隐患,请大家尽快下载F_Network.php文件进行修复!!!
+
+>感谢 榆木 yumusb 同学 参考地址:https://github.com/zlkbdotnet/zfaka/pull/237
+
 # ZFAKA发卡系统(本系统基于yaf+layui开发)
 
 >**郑重申明：本项目为开源程序，仅做技术交流使用**
+
+>**如因使用本项目造成的损失，由使用者自行承担**
 
 >演示地址：https://faka.zlkb.net/
 
@@ -114,7 +122,7 @@
 > 参考：[系统如何升级？](https://github.com/zlkbdotnet/zfaka/wiki/%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%EF%BC%9F)
 
 # 四、BUG与问题反馈
-* 相关问题QQ交流群：701035212 [收费群]
+* 相关问题QQ交流群：701035212
    
 # 五、推广时间
 * 全国IDC行业精英群:572511758
